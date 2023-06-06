@@ -1,1 +1,1 @@
-# Hito_Individual_Programaci-n_Iv-nGonz-lezPrado_T2
+# Blog de posts guardadas en una base de datos
